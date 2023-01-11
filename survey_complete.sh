@@ -1,5 +1,5 @@
 #!/bin/bash
 
-EXAMCODE=silly cow skateboard peach 82c4f1
+EXAMCODE=861376554
 
 echo ${EXAMCODE}
